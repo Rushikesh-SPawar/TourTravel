@@ -1,6 +1,4 @@
-For a README file in your tour travel HTML/CSS project, you should include information that helps others understand what your project is about, how to use it, and how to contribute if applicable. Here's a template you can follow:
 
----
 
 # Tour Travel Website
 
@@ -46,6 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspiration for design and layout from Google.
 - Icons used from google.
 
----
 
-Make sure to replace placeholders like `your_username`, `your_project`, `link_to_demo`, `source_name`, `source_link`, `icon_source`, and `icon_source_link` with relevant information specific to your project. Additionally, you can add more sections or details as needed, depending on the complexity of your project and your preferences.
